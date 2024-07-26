@@ -16,7 +16,7 @@
 1. Clone o repositório e acesse a pasta do projeto
    ```shell
    git clone https://github.com/AllanDantas21/service_email_backend
-   cd nome-do-repositorio
+   cd service_email_backend
     ```
 2. Instale os pacotes utilizando o comando `npm install`
 3. Crie um arquivo `.env` na raiz do projeto e insira suas credencias. Utilize o arquivo `.env.example` como base.
